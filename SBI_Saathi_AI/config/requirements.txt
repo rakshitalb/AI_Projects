@@ -1,0 +1,7 @@
+streamlit==1.38.0
+SpeechRecognition==3.10.4
+googletrans==4.0.0rc1
+gTTS==2.5.3
+pydub==0.25.1
+PyAudio==0.2.14
+python-dotenv==1.0.1
